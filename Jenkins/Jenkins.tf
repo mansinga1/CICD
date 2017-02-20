@@ -30,7 +30,7 @@ resource "aws_instance" "Jenkins" {
       type = "ssh"
 	  user = "ubuntu"
 	  agent = "false"
-	  private_key = "${file("../../Keys/HomeBase.pem")}"
+	  private_key = "${file("../../../Keys/HomeBase.pem")}"
     }
   }
 }
