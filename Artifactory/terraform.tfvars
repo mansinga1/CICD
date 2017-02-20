@@ -1,0 +1,3 @@
+servername = "Artifactory"
+keyname = "HomeBase"
+
