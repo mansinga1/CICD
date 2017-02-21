@@ -1,0 +1,3 @@
+servername = "Ansible"
+keyname = "HomeBase"
+

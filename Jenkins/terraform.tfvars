@@ -1,3 +1,3 @@
-servername = "GU Pipeline"
+servername = "Jenkins"
 keyname = "HomeBase"
 
